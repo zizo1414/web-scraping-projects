@@ -6,14 +6,14 @@ A curated collection of Python scripts and Jupyter Notebooks for extracting stru
 
 | Target / Source | File | Type |
 | :--- | :--- | :--- |
-| **Wuzzuf** (Job listings) | `wzzuf scraper.py` | Python Script |
-| **IMDb** (Top 1000 movies) | `imdb scrapping.py` | Python Script |
-| **FilGoal** (Match results by date) | `filgoal scrapped.py` | Python Script |
-| **Yallakora** (Match center by date) | `yallakora scrapping.py` | Python Script |
-| **Wikipedia** (Article text extraction) | `wikipedia.py scrapping text.py` | Python Script |
-| **Books to Scrape** | `book to scrape.ipynb` | Jupyter Notebook |
-| **Rotten Tomatoes** | `rotten tomatoes scrapping .ipynb` | Jupyter Notebook |
-| **Yahoo Finance** | `yahoo finance.ipynb` | Jupyter Notebook |
+| **Wuzzuf** (Job listings) | `wuzzuf_scraper.py` | Python Script |
+| **IMDb** (Top 1000 movies) | `imdb_scraper.py` | Python Script |
+| **FilGoal** (Match results by date) | `filgoal_scraper.py` | Python Script |
+| **Yallakora** (Match center by date) | `yallakora_scraper.py` | Python Script |
+| **Wikipedia** (Article text extraction) | `wikipedia_scraper.py` | Python Script |
+| **Books to Scrape** | `books_to_scrape.ipynb` | Jupyter Notebook |
+| **Rotten Tomatoes** | `rotten_tomatoes_scraper.ipynb` | Jupyter Notebook |
+| **Yahoo Finance** | `yahoo_finance_scraper.ipynb` | Jupyter Notebook |
 
 ## Tech Stack
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Run any individual script, for example:
 
 ```bash
-python "yallakora scrapping.py"
+python "yallakora_scraper.py"
 ```
 
 ## Disclaimer
